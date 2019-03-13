@@ -1,0 +1,14 @@
+C:\Apps\C#\8 LABA WF\8 LABA WF\bin\Debug\8 LABA WF.exe.config
+C:\Apps\C#\8 LABA WF\8 LABA WF\bin\Debug\8 LABA WF.exe
+C:\Apps\C#\8 LABA WF\8 LABA WF\bin\Debug\8 LABA WF.pdb
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\8 LABA WF.csprojAssemblyReference.cache
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.Properties.Resources.resources
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\8 LABA WF.csproj.GenerateResource.cache
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\8 LABA WF.csproj.CoreCompileInputs.cache
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\8 LABA WF.exe
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\8 LABA WF.pdb
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.AddingItems.resources
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.Start.resources
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.MainForm.resources
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.CorrectRecords.resources
+C:\Apps\C#\8 LABA WF\8 LABA WF\obj\Debug\_8_LABA_WF.DeleteFM.resources
